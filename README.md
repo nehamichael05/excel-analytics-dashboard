@@ -1,0 +1,1 @@
+A web app for analysts, researchers, and businesses to upload Excel files, visualize data with dynamic 2D/3D charts, and get AI-powered insights. It streamlines data exploration, reporting, and decision-making from raw spreadsheet files.
