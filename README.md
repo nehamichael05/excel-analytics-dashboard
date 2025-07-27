@@ -1,35 +1,33 @@
---📊 AI-Powered Data Insight Web App--
+# 📊 AI-Powered Data Insight Web App
+
 A powerful web application for analysts, researchers, and business professionals to effortlessly upload Excel files, visualize data with interactive 2D/3D charts, and uncover AI-powered insights. Designed to streamline data exploration, reporting, and decision-making—directly from your raw spreadsheet files.
 
-🚀 Features
-📁 Upload Excel (.xlsx, .xls, .csv) files
+---
 
-📈 Dynamic 2D/3D data visualization (line, bar, pie, scatter, heatmaps, etc.)
+## 🚀 Features
 
-🧠 AI-generated insights (summaries, trends, outliers, correlations)
+- 📁 Upload Excel (.xlsx, .xls, .csv) files  
+- 📈 Dynamic 2D/3D data visualization (line, bar, pie, scatter, heatmaps, etc.)  
+- 🧠 AI-generated insights (summaries, trends, outliers, correlations)  
+- 🔍 Interactive chart filtering and customization  
+- 📊 Automated dashboard generation  
+- 💾 Export insights and visualizations  
 
-🔍 Interactive chart filtering and customization
+---
 
-📊 Automated dashboard generation
+## 🛠️ Tech Stack
 
-💾 Export insights and visualizations
+- **Frontend:** React / Vue / Svelte (choose one)  
+- **Backend:** Node.js / Python (Flask / FastAPI / Django)  
+- **AI Engine:** OpenAI API / LangChain / Custom ML models  
+- **Data Visualization:** Plotly / D3.js / Chart.js / Three.js  
+- **File Handling:** Pandas, openpyxl, or ExcelJS  
 
+---
 
-🛠️ Tech Stack
-Frontend: React / Vue / Svelte (choose one)
+## 📂 Folder Structure (example)
 
-Backend: Node.js / Python (Flask / FastAPI / Django)
-
-AI Engine: OpenAI API / LangChain / Custom ML models
-
-Data Visualization: Plotly / D3.js / Chart.js / Three.js
-
-File Handling: Pandas, openpyxl, or ExcelJS
-
-📂 Folder Structure (example)
-bash
-Copy
-Edit
+```bash
 /client          # Frontend
 /server          # Backend
 /models          # AI/ML models
