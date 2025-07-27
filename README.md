@@ -1,4 +1,4 @@
-📊 AI-Powered Data Insight Web App
+--📊 AI-Powered Data Insight Web App--
 A powerful web application for analysts, researchers, and business professionals to effortlessly upload Excel files, visualize data with interactive 2D/3D charts, and uncover AI-powered insights. Designed to streamline data exploration, reporting, and decision-making—directly from your raw spreadsheet files.
 
 🚀 Features
